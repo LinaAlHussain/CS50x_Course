@@ -1,0 +1,23 @@
+sort1 uses: Bubble sort
+
+
+How do you know?: see the differences of times between them all
+Random 50000: 8.111s
+Sorted 50000: 1.159s
+
+
+sort2 uses: Merge sort
+
+
+How do you know?: see the differences of times between them all
+Random 50000: 1.065s
+Sorted 50000: 0.909s
+
+
+sort3 uses: Selection sort
+
+
+How do you know?: see the differences of times between them all
+Random 50000: 3.733s
+Sorted 50000: 4.291s
+
